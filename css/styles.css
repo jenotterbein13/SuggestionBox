@@ -1,0 +1,43 @@
+html, body {
+  margin: auto;
+  padding: 0;
+  background-color: #2b1c3d;
+  color: #fff;
+  display: table;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.title {
+	color: #9c87b5;
+	font-style: italic;
+	font-size: 42px;
+	padding-bottom: 20px;
+	border-bottom: 2px solid #fff;
+}
+
+.post {
+	width: 400px;
+	padding-bottom: 5px;
+	border-bottom: 1px solid #fff;
+}
+
+.post h2 {
+	font-size: 28px;
+}
+
+.post img {
+	width: 16px;
+}
+
+.post a {
+	text-decoration: none;
+}
+
+.upvotes {
+	color: #9c87b5;
+}
+
+.suggestion h3 {
+	color: #9c87b5;
+	font-size: 22px;
+}
